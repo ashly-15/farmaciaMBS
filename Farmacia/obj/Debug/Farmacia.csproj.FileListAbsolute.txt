@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\usuario\source\repos\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\usuario\source\repos\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.FrmAyuda.resources
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.FrmLogin.resources
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.FrmMenuPrincipal.resources
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\usuario\source\repos\Farmacia\obj\Debug\Farmacia.pdb
